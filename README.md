@@ -13,3 +13,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ljluiscode&show_icons=true&locale=en&layout=compact" alt="ljluiscode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ljluiscode&show_icons=true&locale=en" alt="ljluiscode" /></p>
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![image](https://user-images.githubusercontent.com/58404444/141240007-a25e09d9-b81b-4310-9699-6542bef0f23d.png)&nbsp;
