@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jorge Luis</h1>
+<h1 align="center">Hi 👋, I'm Luis Jorge</h1>
 <h3 align="center">Desarrollador Web y Apasionado por la programación, Estudiante de nuevas tecnologías, curioso y capaz de resolver problemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ljluiscode&label=Profile%20views&color=0e75b6&style=flat" alt="ljluiscode" /> </p>
